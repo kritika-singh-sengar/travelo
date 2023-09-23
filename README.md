@@ -35,7 +35,7 @@
 11. In case of Validation Failure, Consumer will receive notification for Booking cancelled, At
     the same time, System must take care for refund process.
 
-    >![MicroServices](./Images/microservice.png)
+    > ![MicroServices](Images/microservice.png)
 
 
 ### **1. Discovery Server:**
